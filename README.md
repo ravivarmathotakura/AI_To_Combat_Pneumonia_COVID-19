@@ -10,8 +10,6 @@ In the world of healthcare, one of the major issues that medical professionals f
 
 If we can correctly diagnose a patient's condition, we have the potential to solve the above-mentioned problems. If we can produce deep learning models that can classify whether a patient has a condition or not, that can determine which particular condition the patient has, and that can determine the severity of the condition, then medical professionals will be able to use these models to better diagnose their patients. Accurate diagnosis can also be useful by allowing for timely treatment of a patient; being misdiagnosed can cause a delay in receiving the proper treatment.
 
-I would like to apply a convolutional neural network (CNN) and try to classify a patient as either having pneumonia or not having pneumonia. This is a binary classification problem. I would also like to apply CNN's to classify a patient as either having bacterial pneumonia, viral pneumonia, or no pneumonia. This is a 3-class classification problem.
-
 * Radiology is a branch of medicine where the disease diagnosed by examining X-ray Images.
 
 * To reduce the human eye error in diagnosing the disease computer aided system has evolve for better diagnosis.
@@ -19,3 +17,5 @@ I would like to apply a convolutional neural network (CNN) and try to classify a
 * Machine learning techniques has shown remarkable results in the recent years.
 
 * In this project we are trying to diagnose the Pneumonia from chest X-ray using Machine Learning techniques.
+
+I would like to apply a convolutional neural network (CNN) and try to classify a patient as either having pneumonia or not having pneumonia. This is a binary classification problem. I would also like to apply CNN's to classify a patient as either having bacterial pneumonia, viral pneumonia, or no pneumonia. This is a 3-class classification problem.
