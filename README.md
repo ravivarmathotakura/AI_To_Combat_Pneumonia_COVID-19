@@ -1,4 +1,4 @@
-# AI to combat Pneumonia COVID-19
+# AI to Combat Pneumonia (COVID-19)
 ## Proposed Working Solution
 Identifying Medical Diagnoses and Treatable Diseases(Pneumonia from Chest X-Rays) by Image-Based Deep Learning using Neural Networks
 
