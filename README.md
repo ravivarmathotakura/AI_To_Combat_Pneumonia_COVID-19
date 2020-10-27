@@ -33,5 +33,6 @@ The model for 3-Class Classification gave 98% accuracy for training set and 82% 
 
 ![image](https://github.com/ravivarmathotakura/AI_To_Combat_Pneumonia_COVID-19/blob/master/Images/3ClassClassifierConfusionMatrix.png)
 
-
+## For detailed walk through of code explanation check out the Medium post:
+https://ravivarmathotakura.medium.com/diagnosing-pneumonia-from-chest-x-rays-by-image-based-deep-learning-using-neural-networks-9cdb2ff96922
 
