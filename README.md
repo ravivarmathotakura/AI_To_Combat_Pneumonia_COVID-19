@@ -1,9 +1,7 @@
 # AI to Combat Pneumonia (COVID-19)
-## Proposed Working Solution
-Identifying Medical Diagnoses and Treatable Diseases(Pneumonia from Chest X-Rays) by Image-Based Deep Learning using Neural Networks
 
 ## Summary
-The implementation of clinical-decision support algorithms for medical imaging faces challenges with reliability and interpretability. Here, I demonstrate the general applicability of our AI system for diagnosis of pneumonia using chest X-ray images. This tool may ultimately aid in expediting the diagnosis and referral of these treatable conditions, thereby facilitating earlier treatment, resulting in improved clinical outcomes.
+The implementation of clinical-decision support algorithms for medical imaging faces challenges with reliability and interpretability. Here, I demonstrate the general applicability of AI system for diagnosis of pneumonia using chest X-ray images. This tool may ultimately aid in expediting the diagnosis and referral of these treatable conditions, thereby facilitating earlier treatment, resulting in improved clinical outcomes.
 
 Although currently, deep learning still cannot replace doctors/clinicians in medical diagnosis, it can provide support for experts in the medical domain in performing time-consuming works, such as examining chest radiographs for the signs of pneumonia.
 
@@ -14,6 +12,8 @@ In the world of healthcare, one of the major issues that medical professionals f
 
 If we can correctly diagnose a patient's condition, we have the potential to solve the above-mentioned problems. If we can produce deep learning models that can classify whether a patient has a condition or not, that can determine which particular condition the patient has, and that can determine the severity of the condition, then medical professionals will be able to use these models to better diagnose their patients. Accurate diagnosis can also be useful by allowing for timely treatment of a patient; being misdiagnosed can cause a delay in receiving the proper treatment.
 
+## Overview
+
 * Radiology is a branch of medicine where the disease diagnosed by examining X-ray Images.
 
 * To reduce the human eye error in diagnosing the disease computer aided system has evolve for better diagnosis.
@@ -23,3 +23,6 @@ If we can correctly diagnose a patient's condition, we have the potential to sol
 * In this project we are trying to diagnose the Pneumonia from chest X-ray using Machine Learning techniques.
 
 I would like to apply a convolutional neural network (CNN) and try to classify a patient as either having pneumonia or not having pneumonia. This is a binary classification problem. I would also like to apply CNN's to classify a patient as either having bacterial pneumonia, viral pneumonia, or no pneumonia. This is a 3-class classification problem.
+
+## Results
+After many optimisations, the model for binary classification gave 97% accuracy with a sensitivity of 96%, specificity of 100%.
