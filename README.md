@@ -25,4 +25,13 @@ If we can correctly diagnose a patient's condition, we have the potential to sol
 I would like to apply a convolutional neural network (CNN) and try to classify a patient as either having pneumonia or not having pneumonia. This is a binary classification problem. I would also like to apply CNN's to classify a patient as either having bacterial pneumonia, viral pneumonia, or no pneumonia. This is a 3-class classification problem.
 
 ## Results
-After many optimisations, the model for binary classification gave 97% accuracy with a sensitivity of 96%, specificity of 100%.
+After many optimisations, the model for Binary Classification gave 97% accuracy with a sensitivity of 96%, specificity of 100%.
+
+![image](https://github.com/ravivarmathotakura/AI_To_Combat_Pneumonia_COVID-19/blob/master/Images/BinaryClassifierConfusionMatrix.png)
+
+The model for 3-Class Classification gave 98% accuracy for training set and 82% accuracy for test set.
+
+![image](https://github.com/ravivarmathotakura/AI_To_Combat_Pneumonia_COVID-19/blob/master/Images/3ClassClassifierConfusionMatrix.png)
+
+
+
